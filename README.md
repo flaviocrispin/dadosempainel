@@ -6,6 +6,6 @@ https://towardsdatascience.com/a-guide-to-panel-data-regression-theoretics-and-i
 https://www.statsmodels.org/stable/index.html \
 https://pypi.org/project/linearmodels/
 
-Flávio Crispin Oliveira
-Mestrando em Economia - UBI - Portugal
+Flávio Crispin Oliveira \
+Mestrando em Economia - UBI - Portugal \
 flavio.oliveira@ubi.pt
